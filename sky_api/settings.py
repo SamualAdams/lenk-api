@@ -28,8 +28,9 @@ SECRET_KEY = 'e@&+^mev)&e$4wt3!2&9s!svlzf_jllq$)cf(i@x5myo3@=#fa'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = [
+    'pvvawkppwm.us-east-1.awsapprunner.com',
+]
 
 # Application definition
 
